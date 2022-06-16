@@ -83,7 +83,7 @@ scikit-image==0.18.3
 scikit-learn==1.1.1
 scikit-learn-intelex==2021.5.3
 simplegeneric==0.8.1
-sip==4.19.13
+sip==6.6.1
 smmap==5.0.0
 Sphinx==4.2.0
 statsmodels==0.12.2
